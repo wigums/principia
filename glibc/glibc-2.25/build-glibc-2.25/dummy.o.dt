@@ -1,0 +1,14 @@
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/dummy.o: \
+ /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/dummy.c \
+ /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc-modules.h \
+ ../include/libc-symbols.h \
+ /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/config.h:
+
+../sysdeps/generic/symbol-hacks.h:

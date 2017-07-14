@@ -1,0 +1,32 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in.  You must
+# make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':'.
+
+    |-----handy-ruler------------------------------------------------------|
+bash: bash ()
+bash:
+bash: 
+bash: 
+bash: 
+bash: 
+bash:
+bash:
+bash: License: GPL
+bash: Authors: 
+bash: Website: 
+
+
+
+
+#----------------------------------------
+BUILDDATE: Mon Jun 26 09:52:33 CDT 2017
+PACKAGER:  wigums
+HOST:      Linux 4.4.38 x86_64
+DISTRO:    VLocity Linux 8.0 BB A0.0 built on Jul-21-2016
+CFLAGS:    -O2 -fpic 
+LDFLAGS:    
+CONFIGURE: 
+

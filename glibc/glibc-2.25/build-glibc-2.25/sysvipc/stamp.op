@@ -1,0 +1,1 @@
+sysvipc/ftok.op sysvipc/msgsnd.op sysvipc/msgrcv.op sysvipc/msgget.op sysvipc/msgctl.op sysvipc/semop.op sysvipc/semget.op sysvipc/semctl.op sysvipc/semtimedop.op sysvipc/shmat.op sysvipc/shmdt.op sysvipc/shmget.op sysvipc/shmctl.op

@@ -1,0 +1,1 @@
+resource/getrlimit.op resource/setrlimit.op resource/getrlimit64.op resource/setrlimit64.op resource/getrusage.op resource/ulimit.op resource/vlimit.op resource/vtimes.op resource/getpriority.op resource/setpriority.op resource/nice.op

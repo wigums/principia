@@ -1,0 +1,1 @@
+csu/init-first.op csu/libc-start.op csu/sysdep.op csu/version.op csu/check_fds.op csu/libc-tls.op csu/elf-init.op csu/dso_handle.op csu/errno.op csu/errno-loc.op

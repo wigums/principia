@@ -1,0 +1,1966 @@
+Archive member included to satisfy reference by file (symbol)
+
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__libc_check_standard_fds)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(errno.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os) (__libc_errno)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setjmp.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__sigsetjmp)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(__longjmp.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__longjmp)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (strchr)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (strcmp)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strdup.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__strdup)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strlen.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (strlen)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strnlen.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (strnlen)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memchr.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (memchr)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (memcmp)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os) (__GI_memmove)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (memset)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__mempcpy)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__stpcpy)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy.os)
+                              (memcpy@@GLIBC_2.14)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rawmemchr.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (rawmemchr)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-ssse3.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os) (__strcmp_ssse3)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-sse2-unaligned.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os) (__strcmp_sse2_unaligned)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-sse4.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp.os) (__memcmp_sse4_1)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os) (__mempcpy_ssse3)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove.os) (__memmove_ssse3)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3-back.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os) (__mempcpy_ssse3_back)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3-back.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove.os) (__memmove_ssse3_back)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os) (__mempcpy_avx512_no_vzeroupper)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-ssse3.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy.os) (__stpcpy_ssse3)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-sse2-unaligned.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy.os) (__stpcpy_sse2_unaligned)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr-sse2-no-bsf.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr.os) (__strchr_sse2_no_bsf)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-ssse3.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp.os) (__memcmp_ssse3)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset.os) (__memset_avx512_no_vzeroupper)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx-unaligned-erms.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os) (__mempcpy_avx_unaligned)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-unaligned-erms.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os) (__mempcpy_avx512_unaligned)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx2-unaligned-erms.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset.os) (__memset_avx2_unaligned)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-unaligned-erms.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset.os) (__memset_avx512_unaligned)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove.os) (__x86_shared_non_temporal_threshold)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(closedir.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__closedir)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__readdir)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__rewinddir)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getdents.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os) (__getdents)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fdopendir.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__fdopendir)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(uname.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__uname)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(_exit.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__GI__exit)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getpid.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__getpid)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(environ.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__environ)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(xstat.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__GI___xstat64)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fxstat.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__GI___fxstat64)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lxstat.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__GI___lxstat64)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(open.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__open)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(read.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__libc_read)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(write.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__libc_write)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os) (__GI___lseek)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(access.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__access)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fcntl.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os) (__GI___libc_fcntl)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(close.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__close)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mmap.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__mmap)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(munmap.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__munmap)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mprotect.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__mprotect)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (__profil)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(prof-freq.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os) (__GI___profile_frequency)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-lowlevellock.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os) (__lll_lock_wait_private)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-cancellation.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(open.os) (__libc_enable_asynccancel)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc_multiple_threads.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os) (__libc_multiple_threads)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(dl-addr-obj.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os (_dl_addr_inside_object)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(sigaction.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os) (__GI___sigaction)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setitimer.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os) (__setitimer)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-cancellation.os) (__pthread_unwind)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os) (__GI_exit)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os) (__exit_funcs)
+/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_thread_atexit_impl.os)
+                              /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os) (__GI___call_tls_dtors)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000000000000                __stack_chk_fail = 0x0
+                0x0000000000000000                __stack_chk_fail_local = 0x0
+START GROUP
+LOAD /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+LOAD /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a
+LOAD /usr/lib64/gcc/x86_64-vlocity-linux/6.1.0/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT(.init))
+
+.plt
+ *(.plt)
+ *(.iplt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.bnd
+ *(.plt.bnd)
+
+.text           0x0000000000000000    0x1f8c5
+ *(.text .stub)
+ .text          0x0000000000000000    0x19eb0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+                0x0000000000000000                _start
+                0x0000000000000008                _dl_start_user
+                0x00000000000069b0                _dl_dst_count
+                0x0000000000006b80                _dl_dst_substitute
+                0x0000000000007560                _dl_init_paths
+                0x00000000000079e0                _dl_map_object
+                0x0000000000008620                _dl_rtld_di_serinfo
+                0x00000000000099a0                _dl_lookup_symbol_x
+                0x000000000000ab10                _dl_setup_hash
+                0x000000000000abc0                _dl_add_to_namespace_list
+                0x000000000000ac50                _dl_new_object
+                0x000000000000afc0                _dl_try_allocate_static_tls
+                0x000000000000b0a0                _dl_allocate_static_tls
+                0x000000000000b190                _dl_nothread_init_static_tls
+                0x000000000000b1d0                _dl_protect_relro
+                0x000000000000b230                _dl_reloc_bad_type
+                0x000000000000b300                _dl_relocate_object
+                0x000000000000d110                _dl_map_object_deps
+                0x000000000000e390                _dl_important_hwcaps
+                0x000000000000eba0                _dl_fixup
+                0x000000000000ed70                _dl_profile_fixup
+                0x000000000000f370                _dl_call_pltexit
+                0x000000000000f5a0                _dl_init
+                0x000000000000f6d0                _dl_sort_fini
+                0x000000000000f920                _dl_fini
+                0x000000000000ff00                _dl_debug_state
+                0x000000000000ff00                __GI__dl_debug_state
+                0x000000000000ff10                _dl_debug_initialize
+                0x0000000000010570                _dl_sysdep_read_whole_file
+                0x0000000000010600                _dl_debug_printf
+                0x00000000000106b0                _dl_debug_printf_c
+                0x0000000000010760                _dl_dprintf
+                0x0000000000010800                _dl_name_match_p
+                0x0000000000010870                _dl_higher_prime_number
+                0x0000000000010cb0                _dl_check_map_versions
+                0x0000000000011140                _dl_check_all_versions
+                0x00000000000111b0                _dl_start_profile
+                0x00000000000119a0                __GI__dl_mcount
+                0x00000000000119a0                _dl_mcount
+                0x0000000000011c00                _dl_resolve_conflicts
+                0x0000000000011f80                _dl_next_tls_modid
+                0x0000000000012080                _dl_count_modids
+                0x00000000000120e0                _dl_determine_tlsoffset
+                0x0000000000012290                _dl_get_tls_static_info
+                0x00000000000122b0                _dl_allocate_tls_storage
+                0x0000000000012370                __GI__dl_allocate_tls_init
+                0x0000000000012370                _dl_allocate_tls_init
+                0x0000000000012680                __GI__dl_allocate_tls
+                0x0000000000012680                _dl_allocate_tls
+                0x00000000000126f0                _dl_deallocate_tls
+                0x00000000000126f0                __GI__dl_deallocate_tls
+                0x0000000000012770                _dl_update_slotinfo
+                0x0000000000012ac0                __GI___tls_get_addr
+                0x0000000000012ac0                __tls_get_addr
+                0x0000000000012b00                _dl_tls_get_addr_soft
+                0x0000000000012b80                _dl_add_to_slotinfo
+                0x0000000000012c60                _dl_get_origin
+                0x0000000000012de0                _dl_scope_free
+                0x0000000000012ea0                _dl_make_stack_executable
+                0x0000000000012ea0                __GI__dl_make_stack_executable
+                0x0000000000012f30                _dl_check_caller
+                0x0000000000013950                __GI__dl_find_dso_for_object
+                0x0000000000013950                _dl_find_dso_for_object
+                0x0000000000013a10                _dl_open
+                0x0000000000014070                _dl_show_scope
+                0x0000000000015db0                _dl_close_worker
+                0x0000000000015e40                _dl_close
+                0x0000000000015f20                _dl_runtime_resolve_avx512_opt
+                0x0000000000015f50                _dl_runtime_resolve_avx512
+                0x00000000000160c0                _dl_runtime_profile_avx512
+                0x0000000000016540                _dl_runtime_resolve_avx_slow
+                0x0000000000016580                _dl_runtime_resolve_avx_opt
+                0x00000000000165a0                _dl_runtime_resolve_avx
+                0x0000000000016700                _dl_runtime_profile_avx
+                0x0000000000016b80                _dl_runtime_resolve_sse
+                0x0000000000016cc0                _dl_runtime_profile_sse
+                0x0000000000016ec0                _dl_runtime_resolve_sse_vex
+                0x0000000000017010                _dl_cache_libcmp
+                0x0000000000017100                _dl_load_cache_lookup
+                0x00000000000178b0                _dl_unload_cache
+                0x00000000000178f0                _dl_make_tlsdesc_dynamic
+                0x0000000000017bc0                _dl_tlsdesc_resolve_rela_fixup
+                0x0000000000017d80                _dl_tlsdesc_resolve_hold_fixup
+                0x0000000000017dc0                _dl_unmap
+                0x0000000000017e40                _dl_tlsdesc_return
+                0x0000000000017e50                _dl_tlsdesc_undefweak
+                0x0000000000017e60                _dl_tlsdesc_dynamic
+                0x0000000000017f00                _dl_tlsdesc_resolve_rela
+                0x0000000000017f70                _dl_tlsdesc_resolve_hold
+                0x0000000000017ff0                __get_cpu_features
+                0x0000000000018150                _dl_sysdep_start
+                0x0000000000018800                _dl_sysdep_start_cleanup
+                0x0000000000018810                _dl_show_auxv
+                0x00000000000189b0                _dl_discover_osversion
+                0x0000000000018b90                _dl_next_ld_env_entry
+                0x0000000000018be0                unsetenv
+                0x0000000000018c50                malloc
+                0x0000000000018d60                calloc
+                0x0000000000018da0                free
+                0x0000000000018dd0                __sigjmp_save
+                0x0000000000018de0                __strerror_r
+                0x0000000000018ec0                __GI___libc_fatal
+                0x0000000000018ec0                __libc_fatal
+                0x0000000000018ef0                __GI___chk_fail
+                0x0000000000018ef0                __chk_fail
+                0x0000000000018f00                __GI___assert_fail
+                0x0000000000018f00                __assert_fail
+                0x0000000000018f50                realloc
+                0x0000000000018fe0                __GI___assert_perror_fail
+                0x0000000000018fe0                __assert_perror_fail
+                0x0000000000019050                __strtoul_internal
+                0x0000000000019230                _itoa
+                0x0000000000019280                __strsep
+                0x0000000000019280                strsep
+                0x0000000000019280                __strsep_g
+                0x0000000000019300                _dl_signal_error
+                0x00000000000194b0                _dl_signal_cerror
+                0x0000000000019540                _dl_catch_error
+                0x0000000000019610                _dl_receive_error
+                0x0000000000019650                __brk
+                0x0000000000019650                brk
+                0x00000000000196a0                sbrk
+                0x00000000000196a0                __sbrk
+                0x0000000000019730                __getcwd
+                0x0000000000019730                getcwd
+                0x0000000000019ba0                openat64
+                0x0000000000019c10                __opendir
+                0x0000000000019c10                opendir
+                0x0000000000019d60                __alloc_dir
+                0x0000000000019e60                __fxstatat
+                0x0000000000019e60                __fxstatat64
+                0x0000000000019e60                __GI___fxstatat64
+ .text          0x0000000000019eb0      0x1c1 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+                0x0000000000019eb0                __libc_check_standard_fds
+ .text          0x000000000001a071        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(errno.os)
+ *fill*         0x000000000001a071        0xf 
+ .text          0x000000000001a080       0x57 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setjmp.os)
+                0x000000000001a080                __sigsetjmp
+                0x000000000001a080                __GI___sigsetjmp
+ *fill*         0x000000000001a0d7        0x9 
+ .text          0x000000000001a0e0       0x50 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(__longjmp.os)
+                0x000000000001a0e0                __longjmp
+ .text          0x000000000001a130      0x24a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr.os)
+                0x000000000001a130                index
+                0x000000000001a130                strchr
+                0x000000000001a160                __strchr_sse2
+                0x000000000001a160                __GI_strchr
+ *fill*         0x000000000001a37a        0x6 
+ .text          0x000000000001a380     0x1479 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os)
+                0x000000000001a380                strcmp
+                0x000000000001a3c0                __strcmp_sse2
+                0x000000000001a3c0                __GI_strcmp
+ *fill*         0x000000000001b7f9        0x7 
+ .text          0x000000000001b800       0x41 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strdup.os)
+                0x000000000001b800                __GI___strdup
+                0x000000000001b800                __strdup
+                0x000000000001b800                strdup
+ *fill*         0x000000000001b841        0xf 
+ .text          0x000000000001b850      0x19c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strlen.os)
+                0x000000000001b850                strlen
+                0x000000000001b850                __GI_strlen
+ *fill*         0x000000000001b9ec        0x4 
+ .text          0x000000000001b9f0      0x218 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strnlen.os)
+                0x000000000001b9f0                __strnlen
+                0x000000000001b9f0                strnlen
+                0x000000000001b9f0                __GI___strnlen
+                0x000000000001b9f0                __GI_strnlen
+ *fill*         0x000000000001bc08        0x8 
+ .text          0x000000000001bc10      0x354 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memchr.os)
+                0x000000000001bc10                __GI_memchr
+                0x000000000001bc10                memchr
+                0x000000000001bc10                __memchr
+ *fill*         0x000000000001bf64        0xc 
+ .text          0x000000000001bf70      0x440 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp.os)
+                0x000000000001bf70                bcmp
+                0x000000000001bf70                memcmp
+                0x000000000001bfb0                __GI_memcmp
+                0x000000000001bfb0                __memcmp_sse2
+ .text          0x000000000001c3b0      0x4a9 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove.os)
+                0x000000000001c3b0                memmove
+                0x000000000001c3b0                __libc_memmove
+                0x000000000001c490                __mempcpy_chk_sse2_unaligned
+                0x000000000001c4a0                __GI_mempcpy
+                0x000000000001c4a0                __mempcpy_sse2_unaligned
+                0x000000000001c4a0                __GI___mempcpy
+                0x000000000001c4b0                __memcpy_chk_sse2_unaligned
+                0x000000000001c4b0                __memmove_chk_sse2_unaligned
+                0x000000000001c4c0                __memmove_sse2_unaligned
+                0x000000000001c4c0                __GI_memmove
+                0x000000000001c4c0                __GI_memcpy
+                0x000000000001c4c0                __memcpy_sse2_unaligned
+                0x000000000001c4c0                memcpy@GLIBC_2.2.5
+                0x000000000001c4f0                __mempcpy_erms
+                0x000000000001c500                __memmove_erms
+                0x000000000001c500                __memcpy_erms
+                0x000000000001c530                __mempcpy_chk_sse2_unaligned_erms
+                0x000000000001c540                __mempcpy_sse2_unaligned_erms
+                0x000000000001c550                __memmove_chk_sse2_unaligned_erms
+                0x000000000001c550                __memcpy_chk_sse2_unaligned_erms
+                0x000000000001c560                __memmove_sse2_unaligned_erms
+                0x000000000001c560                __memcpy_sse2_unaligned_erms
+ *fill*         0x000000000001c859        0x7 
+ .text          0x000000000001c860      0x1f3 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset.os)
+                0x000000000001c860                memset
+                0x000000000001c900                __bzero
+                0x000000000001c900                bzero
+                0x000000000001c910                __memset_chk_sse2_unaligned
+                0x000000000001c920                __GI_memset
+                0x000000000001c920                __memset_sse2_unaligned
+                0x000000000001c950                __memset_erms
+                0x000000000001c960                __memset_chk_sse2_unaligned_erms
+                0x000000000001c970                __memset_sse2_unaligned_erms
+ *fill*         0x000000000001ca53        0xd 
+ .text          0x000000000001ca60       0xd1 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os)
+                0x000000000001ca60                mempcpy
+                0x000000000001ca60                __mempcpy
+ *fill*         0x000000000001cb31        0xf 
+ .text          0x000000000001cb40      0x11c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy.os)
+                0x000000000001cb40                stpcpy
+                0x000000000001cb40                __stpcpy
+                0x000000000001cb80                __GI_stpcpy
+                0x000000000001cb80                __GI___stpcpy
+                0x000000000001cb80                __stpcpy_sse2
+ *fill*         0x000000000001cc5c        0x4 
+ .text          0x000000000001cc60       0xd1 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy.os)
+                0x000000000001cc60                __new_memcpy
+                0x000000000001cc60                memcpy@@GLIBC_2.14
+ *fill*         0x000000000001cd31        0xf 
+ .text          0x000000000001cd40      0x204 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rawmemchr.os)
+                0x000000000001cd40                __GI___rawmemchr
+                0x000000000001cd40                __rawmemchr
+                0x000000000001cd40                rawmemchr
+ .text          0x000000000001cf44        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-ssse3.os)
+ *fill*         0x000000000001cf44        0xc 
+ .text          0x000000000001cf50      0x2a3 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-sse2-unaligned.os)
+                0x000000000001cf50                __strcmp_sse2_unaligned
+ .text          0x000000000001d1f3        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-sse4.os)
+ .text          0x000000000001d1f3        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3.os)
+ .text          0x000000000001d1f3        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3.os)
+ .text          0x000000000001d1f3        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3-back.os)
+ .text          0x000000000001d1f3        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3-back.os)
+ .text          0x000000000001d1f3        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .text          0x000000000001d1f3        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-ssse3.os)
+ *fill*         0x000000000001d1f3        0xd 
+ .text          0x000000000001d200      0x6b0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-sse2-unaligned.os)
+                0x000000000001d200                __stpcpy_sse2_unaligned
+ .text          0x000000000001d8b0        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr-sse2-no-bsf.os)
+ .text          0x000000000001d8b0        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-ssse3.os)
+ .text          0x000000000001d8b0        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .text          0x000000000001d8b0        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .text          0x000000000001d8b0        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .text          0x000000000001d8b0        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .text          0x000000000001d8b0        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .text          0x000000000001d8b0      0x5c0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+                0x000000000001de40                __cache_sysconf
+ .text          0x000000000001de70       0x54 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(closedir.os)
+                0x000000000001de70                __closedir
+                0x000000000001de70                closedir
+ *fill*         0x000000000001dec4        0xc 
+ .text          0x000000000001ded0      0x101 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os)
+                0x000000000001ded0                readdir
+                0x000000000001ded0                __readdir64
+                0x000000000001ded0                __readdir
+                0x000000000001ded0                readdir64
+ *fill*         0x000000000001dfd1        0xf 
+ .text          0x000000000001dfe0       0x8b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os)
+                0x000000000001dfe0                rewinddir
+                0x000000000001dfe0                __rewinddir
+                0x000000000001dfe0                __GI___rewinddir
+ *fill*         0x000000000001e06b        0x5 
+ .text          0x000000000001e070       0x8d /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getdents.os)
+                0x000000000001e070                __getdents
+                0x000000000001e070                __getdents64
+ *fill*         0x000000000001e0fd        0x3 
+ .text          0x000000000001e100       0x9a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fdopendir.os)
+                0x000000000001e100                fdopendir
+                0x000000000001e100                __fdopendir
+ *fill*         0x000000000001e19a        0x6 
+ .text          0x000000000001e1a0       0x21 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(uname.os)
+                0x000000000001e1a0                uname
+                0x000000000001e1a0                __GI_uname
+                0x000000000001e1a0                __uname
+                0x000000000001e1a0                __GI___uname
+ *fill*         0x000000000001e1c1        0xf 
+ .text          0x000000000001e1d0       0x58 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(_exit.os)
+                0x000000000001e1d0                _Exit
+                0x000000000001e1d0                __GI__exit
+                0x000000000001e1d0                _exit
+ *fill*         0x000000000001e228        0x8 
+ .text          0x000000000001e230        0x8 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getpid.os)
+                0x000000000001e230                __getpid
+                0x000000000001e230                getpid
+                0x000000000001e230                __GI_getpid
+                0x000000000001e230                __GI___getpid
+ .text          0x000000000001e238        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(environ.os)
+ *fill*         0x000000000001e238        0x8 
+ .text          0x000000000001e240       0x4c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(xstat.os)
+                0x000000000001e240                _xstat
+                0x000000000001e240                __xstat64
+                0x000000000001e240                __GI___xstat64
+                0x000000000001e240                __GI___xstat
+                0x000000000001e240                __xstat
+ *fill*         0x000000000001e28c        0x4 
+ .text          0x000000000001e290       0x4c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fxstat.os)
+                0x000000000001e290                __GI___fxstat
+                0x000000000001e290                __GI___fxstat64
+                0x000000000001e290                __fxstat64
+                0x000000000001e290                _fxstat
+                0x000000000001e290                __fxstat
+ *fill*         0x000000000001e2dc        0x4 
+ .text          0x000000000001e2e0       0x4c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lxstat.os)
+                0x000000000001e2e0                __GI___lxstat
+                0x000000000001e2e0                _lxstat
+                0x000000000001e2e0                __lxstat
+                0x000000000001e2e0                __lxstat64
+                0x000000000001e2e0                __GI___lxstat64
+ *fill*         0x000000000001e32c        0x4 
+ .text          0x000000000001e330       0x5a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(open.os)
+                0x000000000001e330                __GI___open64
+                0x000000000001e330                __open
+                0x000000000001e330                __GI_open
+                0x000000000001e330                __GI___open
+                0x000000000001e330                __GI_open64
+                0x000000000001e330                __libc_open
+                0x000000000001e330                open64
+                0x000000000001e330                __GI___libc_open
+                0x000000000001e330                open
+                0x000000000001e330                __open64
+                0x000000000001e339                __open_nocancel
+ *fill*         0x000000000001e38a        0x6 
+ .text          0x000000000001e390       0x5a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(read.os)
+                0x000000000001e390                __read
+                0x000000000001e390                __GI_read
+                0x000000000001e390                __libc_read
+                0x000000000001e390                __GI___read
+                0x000000000001e390                read
+                0x000000000001e390                __GI___libc_read
+                0x000000000001e399                __read_nocancel
+ *fill*         0x000000000001e3ea        0x6 
+ .text          0x000000000001e3f0       0x5a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(write.os)
+                0x000000000001e3f0                __write
+                0x000000000001e3f0                __GI_write
+                0x000000000001e3f0                write
+                0x000000000001e3f0                __GI___libc_write
+                0x000000000001e3f0                __GI___write
+                0x000000000001e3f0                __libc_write
+                0x000000000001e3f9                __write_nocancel
+ *fill*         0x000000000001e44a        0x6 
+ .text          0x000000000001e450       0x34 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+                0x000000000001e450                __GI___lseek
+                0x000000000001e450                __lseek64
+                0x000000000001e450                lseek
+                0x000000000001e450                __libc_lseek64
+                0x000000000001e450                llseek
+                0x000000000001e450                __lseek
+                0x000000000001e450                __libc_lseek
+                0x000000000001e450                lseek64
+ *fill*         0x000000000001e484        0xc 
+ .text          0x000000000001e490       0x4a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(access.os)
+                0x000000000001e490                __access_noerrno
+                0x000000000001e4b0                access
+                0x000000000001e4b0                __access
+ *fill*         0x000000000001e4da        0x6 
+ .text          0x000000000001e4e0      0x18b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fcntl.os)
+                0x000000000001e4e0                __fcntl_nocancel
+                0x000000000001e570                __libc_fcntl
+                0x000000000001e570                __GI___libc_fcntl
+                0x000000000001e570                __GI___fcntl
+                0x000000000001e570                __fcntl
+                0x000000000001e570                fcntl
+ *fill*         0x000000000001e66b        0x5 
+ .text          0x000000000001e670       0x5a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(close.os)
+                0x000000000001e670                __GI_close
+                0x000000000001e670                __GI___libc_close
+                0x000000000001e670                __libc_close
+                0x000000000001e670                __close
+                0x000000000001e670                __GI___close
+                0x000000000001e670                close
+                0x000000000001e679                __close_nocancel
+ *fill*         0x000000000001e6ca        0x6 
+ .text          0x000000000001e6d0       0xbe /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mmap.os)
+                0x000000000001e6d0                __mmap
+                0x000000000001e6d0                mmap
+                0x000000000001e6d0                __mmap64
+                0x000000000001e6d0                mmap64
+ *fill*         0x000000000001e78e        0x2 
+ .text          0x000000000001e790       0x21 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(munmap.os)
+                0x000000000001e790                munmap
+                0x000000000001e790                __GI___munmap
+                0x000000000001e790                __GI_munmap
+                0x000000000001e790                __munmap
+ *fill*         0x000000000001e7b1        0xf 
+ .text          0x000000000001e7c0       0x21 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mprotect.os)
+                0x000000000001e7c0                __mprotect
+                0x000000000001e7c0                __GI___mprotect
+                0x000000000001e7c0                __GI_mprotect
+                0x000000000001e7c0                mprotect
+ *fill*         0x000000000001e7e1        0xf 
+ .text          0x000000000001e7f0      0x207 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os)
+                0x000000000001e840                __profil
+                0x000000000001e840                profil
+ *fill*         0x000000000001e9f7        0x9 
+ .text          0x000000000001ea00        0xb /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(prof-freq.os)
+                0x000000000001ea00                __GI___profile_frequency
+                0x000000000001ea00                __profile_frequency
+ *fill*         0x000000000001ea0b        0x5 
+ .text          0x000000000001ea10       0x4c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-lowlevellock.os)
+                0x000000000001ea10                __lll_lock_wait_private
+                0x000000000001ea40                __lll_unlock_wake_private
+ *fill*         0x000000000001ea5c        0x4 
+ .text          0x000000000001ea60       0xb9 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-cancellation.os)
+                0x000000000001ea60                __libc_enable_asynccancel
+                0x000000000001eac0                __libc_disable_asynccancel
+ .text          0x000000000001eb19        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc_multiple_threads.os)
+ *fill*         0x000000000001eb19        0x7 
+ .text          0x000000000001eb20       0x53 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(dl-addr-obj.os)
+                0x000000000001eb20                _dl_addr_inside_object
+ *fill*         0x000000000001eb73        0xd 
+ .text          0x000000000001eb80      0x274 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(sigaction.os)
+                0x000000000001eba0                __libc_sigaction
+                0x000000000001eba0                __GI___libc_sigaction
+                0x000000000001edd0                sigaction
+                0x000000000001edd0                __GI___sigaction
+                0x000000000001edd0                __sigaction
+ *fill*         0x000000000001edf4        0xc 
+ .text          0x000000000001ee00       0x21 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setitimer.os)
+                0x000000000001ee00                setitimer
+                0x000000000001ee00                __setitimer
+                0x000000000001ee00                __GI_setitimer
+                0x000000000001ee00                __GI___setitimer
+ *fill*         0x000000000001ee21        0xf 
+ .text          0x000000000001ee30      0x5c6 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+                0x000000000001ee30                pthread_equal
+                0x000000000001ee60                pthread_attr_destroy
+                0x000000000001ee90                pthread_attr_init@@GLIBC_2.2.5
+                0x000000000001ee90                __pthread_attr_init_2_1
+                0x000000000001eec0                pthread_attr_getdetachstate
+                0x000000000001eef0                pthread_attr_setdetachstate
+                0x000000000001ef20                pthread_attr_getinheritsched
+                0x000000000001ef50                pthread_attr_setinheritsched
+                0x000000000001ef80                pthread_attr_getschedparam
+                0x000000000001efb0                pthread_attr_setschedparam
+                0x000000000001efe0                pthread_attr_getschedpolicy
+                0x000000000001f010                pthread_attr_setschedpolicy
+                0x000000000001f040                pthread_attr_getscope
+                0x000000000001f070                pthread_attr_setscope
+                0x000000000001f0a0                pthread_condattr_destroy
+                0x000000000001f0d0                pthread_condattr_init
+                0x000000000001f100                pthread_cond_broadcast@@GLIBC_2.3.2
+                0x000000000001f100                __pthread_cond_broadcast
+                0x000000000001f130                pthread_cond_destroy@@GLIBC_2.3.2
+                0x000000000001f130                __pthread_cond_destroy
+                0x000000000001f160                pthread_cond_init@@GLIBC_2.3.2
+                0x000000000001f160                __pthread_cond_init
+                0x000000000001f190                pthread_cond_signal@@GLIBC_2.3.2
+                0x000000000001f190                __pthread_cond_signal
+                0x000000000001f1c0                pthread_cond_wait@@GLIBC_2.3.2
+                0x000000000001f1c0                __pthread_cond_wait
+                0x000000000001f1f0                pthread_cond_timedwait@@GLIBC_2.3.2
+                0x000000000001f1f0                __pthread_cond_timedwait
+                0x000000000001f220                pthread_exit
+                0x000000000001f220                __pthread_exit
+                0x000000000001f250                pthread_getschedparam
+                0x000000000001f280                pthread_setschedparam
+                0x000000000001f2b0                pthread_mutex_destroy
+                0x000000000001f2e0                pthread_mutex_init
+                0x000000000001f310                pthread_mutex_lock
+                0x000000000001f340                pthread_mutex_unlock
+                0x000000000001f370                pthread_self
+                0x000000000001f3a0                __pthread_setcancelstate
+                0x000000000001f3a0                pthread_setcancelstate
+                0x000000000001f3d0                pthread_setcanceltype
+ *fill*         0x000000000001f3f6        0xa 
+ .text          0x000000000001f400      0x15a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os)
+                0x000000000001f400                __run_exit_handlers
+                0x000000000001f540                __GI_exit
+                0x000000000001f540                exit
+ *fill*         0x000000000001f55a        0x6 
+ .text          0x000000000001f560      0x22f /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+                0x000000000001f560                __new_exitfn
+                0x000000000001f6f0                __internal_atexit
+                0x000000000001f740                __cxa_atexit
+                0x000000000001f740                __GI___cxa_atexit
+ *fill*         0x000000000001f78f        0x1 
+ .text          0x000000000001f790      0x135 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_thread_atexit_impl.os)
+                0x000000000001f790                __cxa_thread_atexit_impl
+                0x000000000001f860                __GI___call_tls_dtors
+                0x000000000001f860                __call_tls_dtors
+ *(.gnu.warning)
+
+.text.unlikely  0x0000000000000000      0x1fc
+ .text.unlikely
+                0x0000000000000000      0x1fc /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+
+.text.sse4.2    0x0000000000000000      0xda9
+ .text.sse4.2   0x0000000000000000      0xda9 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os)
+                0x0000000000000000                __strcmp_sse42
+
+.text.ssse3     0x0000000000000000     0xd5e3
+ .text.ssse3    0x0000000000000000     0x1259 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-ssse3.os)
+                0x0000000000000000                __GI___strcmp_ssse3
+                0x0000000000000000                __strcmp_ssse3
+ *fill*         0x0000000000001259        0x7 
+ .text.ssse3    0x0000000000001260     0x29e6 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3.os)
+                0x0000000000001260                __mempcpy_chk_ssse3
+                0x0000000000001270                __mempcpy_ssse3
+                0x0000000000001280                __memcpy_chk_ssse3
+                0x0000000000001290                __memcpy_ssse3
+ *fill*         0x0000000000003c46        0xa 
+ .text.ssse3    0x0000000000003c50     0x2b77 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3.os)
+                0x0000000000003c50                __memmove_chk_ssse3
+                0x0000000000003c60                __memmove_ssse3
+ *fill*         0x00000000000067c7        0x9 
+ .text.ssse3    0x00000000000067d0     0x2ae6 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3-back.os)
+                0x00000000000067d0                __mempcpy_chk_ssse3_back
+                0x00000000000067e0                __mempcpy_ssse3_back
+                0x00000000000067f0                __memcpy_chk_ssse3_back
+                0x0000000000006800                __memcpy_ssse3_back
+ *fill*         0x00000000000092b6        0xa 
+ .text.ssse3    0x00000000000092c0     0x2b16 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3-back.os)
+                0x00000000000092c0                __memmove_chk_ssse3_back
+                0x00000000000092d0                __memmove_ssse3_back
+ *fill*         0x000000000000bdd6        0xa 
+ .text.ssse3    0x000000000000bde0     0x1803 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-ssse3.os)
+                0x000000000000bde0                __stpcpy_ssse3
+
+.text.sse4.1    0x0000000000000000     0x163e
+ .text.sse4.1   0x0000000000000000     0x163e /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-sse4.os)
+                0x0000000000000000                __memcmp_sse4_1
+
+.text.avx512    0x0000000000000000     0x1161
+ .text.avx512   0x0000000000000000      0x768 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                0x0000000000000000                __mempcpy_chk_avx512_no_vzeroupper
+                0x0000000000000010                __mempcpy_avx512_no_vzeroupper
+                0x0000000000000020                __memcpy_chk_avx512_no_vzeroupper
+                0x0000000000000020                __memmove_chk_avx512_no_vzeroupper
+                0x0000000000000030                __memcpy_avx512_no_vzeroupper
+                0x0000000000000030                __memmove_avx512_no_vzeroupper
+ *fill*         0x0000000000000768        0x8 
+ .text.avx512   0x0000000000000770      0x280 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                0x0000000000000770                __memset_chk_avx512_no_vzeroupper
+                0x0000000000000780                __memset_avx512_no_vzeroupper
+ .text.avx512   0x00000000000009f0      0x598 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-unaligned-erms.os)
+                0x00000000000009f0                __mempcpy_chk_avx512_unaligned
+                0x0000000000000a00                __mempcpy_avx512_unaligned
+                0x0000000000000a10                __memcpy_chk_avx512_unaligned
+                0x0000000000000a10                __memmove_chk_avx512_unaligned
+                0x0000000000000a20                __memmove_avx512_unaligned
+                0x0000000000000a20                __memcpy_avx512_unaligned
+                0x0000000000000a60                __mempcpy_chk_avx512_unaligned_erms
+                0x0000000000000a70                __mempcpy_avx512_unaligned_erms
+                0x0000000000000a80                __memcpy_chk_avx512_unaligned_erms
+                0x0000000000000a80                __memmove_chk_avx512_unaligned_erms
+                0x0000000000000a90                __memmove_avx512_unaligned_erms
+                0x0000000000000a90                __memcpy_avx512_unaligned_erms
+ *fill*         0x0000000000000f88        0x8 
+ .text.avx512   0x0000000000000f90      0x1d1 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-unaligned-erms.os)
+                0x0000000000000f90                __memset_chk_avx512_unaligned
+                0x0000000000000fa0                __memset_avx512_unaligned
+                0x0000000000000fe0                __memset_avx512_erms
+                0x0000000000001000                __memset_chk_avx512_unaligned_erms
+                0x0000000000001010                __memset_avx512_unaligned_erms
+
+.text.atom      0x0000000000000000     0x1a83
+ .text.atom     0x0000000000000000      0x315 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr-sse2-no-bsf.os)
+                0x0000000000000000                __strchr_sse2_no_bsf
+ *fill*         0x0000000000000315        0xb 
+ .text.atom     0x0000000000000320     0x1763 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-ssse3.os)
+                0x0000000000000320                __memcmp_ssse3
+
+.text.avx       0x0000000000000000      0x5eb
+ .text.avx      0x0000000000000000      0x464 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx-unaligned-erms.os)
+                0x0000000000000000                __mempcpy_chk_avx_unaligned
+                0x0000000000000010                __mempcpy_avx_unaligned
+                0x0000000000000020                __memcpy_chk_avx_unaligned
+                0x0000000000000020                __memmove_chk_avx_unaligned
+                0x0000000000000030                __memcpy_avx_unaligned
+                0x0000000000000030                __memmove_avx_unaligned
+                0x0000000000000060                __mempcpy_chk_avx_unaligned_erms
+                0x0000000000000070                __mempcpy_avx_unaligned_erms
+                0x0000000000000080                __memmove_chk_avx_unaligned_erms
+                0x0000000000000080                __memcpy_chk_avx_unaligned_erms
+                0x0000000000000090                __memcpy_avx_unaligned_erms
+                0x0000000000000090                __memmove_avx_unaligned_erms
+ *fill*         0x0000000000000464        0xc 
+ .text.avx      0x0000000000000470      0x17b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx2-unaligned-erms.os)
+                0x0000000000000470                __memset_chk_avx2_unaligned
+                0x0000000000000480                __memset_avx2_unaligned
+                0x00000000000004b0                __memset_avx2_erms
+                0x00000000000004d0                __memset_chk_avx2_unaligned_erms
+                0x00000000000004e0                __memset_avx2_unaligned_erms
+
+.text.startup   0x0000000000000000      0x418
+ .text.startup  0x0000000000000000      0x418 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+
+.text.compat    0x0000000000000000      0x160
+ .text.compat   0x0000000000000000      0x160 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+                0x0000000000000000                pthread_cond_broadcast@GLIBC_2.2.5
+                0x0000000000000000                __pthread_cond_broadcast_2_0
+                0x0000000000000030                __pthread_cond_destroy_2_0
+                0x0000000000000030                pthread_cond_destroy@GLIBC_2.2.5
+                0x0000000000000060                __pthread_cond_init_2_0
+                0x0000000000000060                pthread_cond_init@GLIBC_2.2.5
+                0x0000000000000090                __pthread_cond_signal_2_0
+                0x0000000000000090                pthread_cond_signal@GLIBC_2.2.5
+                0x00000000000000c0                pthread_cond_wait@GLIBC_2.2.5
+                0x00000000000000c0                __pthread_cond_wait_2_0
+                0x00000000000000f0                pthread_cond_timedwait@GLIBC_2.2.5
+                0x00000000000000f0                __pthread_cond_timedwait_2_0
+                0x0000000000000120                __pthread_unwind
+
+.fini
+ *(SORT(.fini))
+
+.rodata         0x0000000000000000     0x10a0
+ *(.rodata)
+ .rodata        0x0000000000000000      0xcb0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+                0x0000000000000ca0                __GI__itoa_lower_digits
+                0x0000000000000ca0                _itoa_lower_digits
+ .rodata        0x0000000000000cb0       0x40 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os)
+ .rodata        0x0000000000000cf0       0x40 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-ssse3.os)
+ .rodata        0x0000000000000d30       0x80 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-sse2-unaligned.os)
+ *fill*         0x0000000000000db0       0x10 
+ .rodata        0x0000000000000dc0      0x2e0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+
+.rodata.str1.1  0x0000000000000000      0xf7a
+ .rodata.str1.1
+                0x0000000000000000      0xf16 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x0000000000000f16       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+ .rodata.str1.1
+                0x0000000000000f2a       0x39 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+ .rodata.str1.1
+                0x0000000000000f63       0x17 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+
+.rodata.str1.8  0x0000000000000000     0x2255
+ .rodata.str1.8
+                0x0000000000000000     0x2231 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+ *fill*         0x0000000000002231        0x7 
+ .rodata.str1.8
+                0x0000000000002238        0xb /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+ *fill*         0x0000000000002243        0x5 
+ .rodata.str1.8
+                0x0000000000002248        0xd /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+
+.rodata.str1.16
+                0x0000000000000000      0x391
+ .rodata.str1.16
+                0x0000000000000000      0x373 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+ *fill*         0x0000000000000373        0xd 
+ .rodata.str1.16
+                0x0000000000000380       0x11 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+
+.rodata.cst16   0x0000000000000000       0x20
+ .rodata.cst16  0x0000000000000000       0x20 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+
+.rodata.str1.32
+                0x0000000000000000       0x3b
+ .rodata.str1.32
+                0x0000000000000000       0x3b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+
+.rodata.sse4.2  0x0000000000000000       0x40
+ .rodata.sse4.2
+                0x0000000000000000       0x40 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os)
+
+.rodata.sse4.1  0x0000000000000000      0x140
+ .rodata.sse4.1
+                0x0000000000000000      0x140 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-sse4.os)
+
+.rodata.ssse3   0x0000000000000000      0xd80
+ .rodata.ssse3  0x0000000000000000      0x1c0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3.os)
+ .rodata.ssse3  0x00000000000001c0      0x1c0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3.os)
+ .rodata.ssse3  0x0000000000000380      0x500 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3-back.os)
+ .rodata.ssse3  0x0000000000000880      0x500 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3-back.os)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x3b38
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x20c8 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+ .eh_frame      0x00000000000020c8       0x38 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+ .eh_frame      0x0000000000002100       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setjmp.os)
+ .eh_frame      0x0000000000002130       0x48 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(__longjmp.os)
+ .eh_frame      0x0000000000002178       0x48 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000021c0       0x60 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x0000000000002220       0x50 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strdup.os)
+ .eh_frame      0x0000000000002270       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strlen.os)
+ .eh_frame      0x00000000000022a0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strnlen.os)
+ .eh_frame      0x00000000000022d0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memchr.os)
+ .eh_frame      0x0000000000002300       0x48 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002348      0x120 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove.os)
+                                         0xf8 (size before relaxing)
+ .eh_frame      0x0000000000002468       0xc0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset.os)
+                                         0xa8 (size before relaxing)
+ .eh_frame      0x0000000000002528       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os)
+ .eh_frame      0x0000000000002558       0x48 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000025a0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy.os)
+ .eh_frame      0x00000000000025d0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rawmemchr.os)
+ .eh_frame      0x0000000000002600       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-ssse3.os)
+ .eh_frame      0x0000000000002630       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-sse2-unaligned.os)
+ .eh_frame      0x0000000000002660       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-sse4.os)
+ .eh_frame      0x0000000000002690       0x78 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3.os)
+                                         0x68 (size before relaxing)
+ .eh_frame      0x0000000000002708       0x48 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002750       0x78 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3-back.os)
+                                         0x68 (size before relaxing)
+ .eh_frame      0x00000000000027c8       0x48 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3-back.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002810       0x78 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                                         0x68 (size before relaxing)
+ .eh_frame      0x0000000000002888       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-ssse3.os)
+ .eh_frame      0x00000000000028b8       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .eh_frame      0x00000000000028e8       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr-sse2-no-bsf.os)
+ .eh_frame      0x0000000000002918       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-ssse3.os)
+ .eh_frame      0x0000000000002948       0x48 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002990       0xd8 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx-unaligned-erms.os)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x0000000000002a68       0xd8 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-unaligned-erms.os)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x0000000000002b40       0x90 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx2-unaligned-erms.os)
+                                         0x80 (size before relaxing)
+ .eh_frame      0x0000000000002bd0       0x90 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-unaligned-erms.os)
+                                         0x80 (size before relaxing)
+ .eh_frame      0x0000000000002c60      0x1d8 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+                                        0x1d0 (size before relaxing)
+ .eh_frame      0x0000000000002e38       0x40 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(closedir.os)
+ .eh_frame      0x0000000000002e78       0x68 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os)
+ .eh_frame      0x0000000000002ee0       0x40 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os)
+ .eh_frame      0x0000000000002f20       0x68 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getdents.os)
+ .eh_frame      0x0000000000002f88       0x50 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fdopendir.os)
+ .eh_frame      0x0000000000002fd8       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(uname.os)
+ .eh_frame      0x0000000000003008       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(_exit.os)
+ .eh_frame      0x0000000000003038       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getpid.os)
+ .eh_frame      0x0000000000003068       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(xstat.os)
+ .eh_frame      0x0000000000003098       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fxstat.os)
+ .eh_frame      0x00000000000030c8       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lxstat.os)
+ .eh_frame      0x00000000000030f8       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(open.os)
+ .eh_frame      0x0000000000003128       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(read.os)
+ .eh_frame      0x0000000000003158       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(write.os)
+ .eh_frame      0x0000000000003188       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+ .eh_frame      0x00000000000031b8       0x48 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(access.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000003200       0x60 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fcntl.os)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x0000000000003260       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(close.os)
+ .eh_frame      0x0000000000003290       0x60 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mmap.os)
+ .eh_frame      0x00000000000032f0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(munmap.os)
+ .eh_frame      0x0000000000003320       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mprotect.os)
+ .eh_frame      0x0000000000003350       0x80 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os)
+ .eh_frame      0x00000000000033d0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(prof-freq.os)
+ .eh_frame      0x0000000000003400       0x68 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-lowlevellock.os)
+                                         0x60 (size before relaxing)
+ .eh_frame      0x0000000000003468       0x48 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-cancellation.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000034b0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(dl-addr-obj.os)
+ .eh_frame      0x00000000000034e0       0xf0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(sigaction.os)
+                                         0xe8 (size before relaxing)
+ .eh_frame      0x00000000000035d0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setitimer.os)
+ .eh_frame      0x0000000000003600      0x3a8 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+                                        0x310 (size before relaxing)
+ .eh_frame      0x00000000000039a8       0x58 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os)
+ .eh_frame      0x0000000000003a00       0xb8 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+                                         0xb0 (size before relaxing)
+ .eh_frame      0x0000000000003ab8       0x80 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss           0x0000000000000000       0x18
+ *(.tbss)
+ .tbss          0x0000000000000000        0x4 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(errno.os)
+                0x0000000000000000                errno
+                0x0000000000000000                __libc_errno
+ *fill*         0x0000000000000004        0x4 
+ .tbss          0x0000000000000008       0x10 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+ *(.igot)
+
+.got.plt
+ *(.got.plt)
+ *(.igot.plt)
+
+.data           0x0000000000000000      0xfb8
+ *(.data)
+ .data          0x0000000000000000      0xf78 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(errno.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setjmp.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(__longjmp.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strdup.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strlen.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strnlen.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memchr.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rawmemchr.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-ssse3.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-sse2-unaligned.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-sse4.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3-back.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3-back.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-ssse3.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr-sse2-no-bsf.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-ssse3.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .data          0x0000000000000f78       0x40 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+                0x0000000000000f78                __x86_raw_shared_cache_size
+                0x0000000000000f80                __x86_raw_shared_cache_size_half
+                0x0000000000000f88                __x86_shared_cache_size
+                0x0000000000000f90                __x86_shared_cache_size_half
+                0x0000000000000f98                __x86_raw_data_cache_size
+                0x0000000000000fa0                __x86_raw_data_cache_size_half
+                0x0000000000000fa8                __x86_data_cache_size
+                0x0000000000000fb0                __x86_data_cache_size_half
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(closedir.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getdents.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fdopendir.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(uname.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(_exit.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getpid.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(environ.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(xstat.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fxstat.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lxstat.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(open.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(read.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(write.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(access.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fcntl.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(close.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mmap.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(munmap.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mprotect.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(prof-freq.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-lowlevellock.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-cancellation.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc_multiple_threads.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(dl-addr-obj.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(sigaction.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setitimer.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+ .data          0x0000000000000fb8        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.data.rel.ro    0x0000000000000000      0x29c
+ .data.rel.ro   0x0000000000000000      0x29c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+                0x00000000000000b0                __pointer_chk_guard_local
+                0x00000000000000b8                _dl_skip_args
+                0x00000000000000c0                __GI__dl_argv
+                0x00000000000000c0                _dl_argv
+                0x00000000000000c8                _dl_argc
+                0x00000000000000e0                _rtld_global_ro
+                0x00000000000000e0                _rtld_local_ro
+                0x0000000000000280                __stack_prot
+                0x0000000000000288                _dl_random
+                0x0000000000000290                __libc_stack_end
+                0x0000000000000290                __GI___libc_stack_end
+                0x0000000000000298                __GI___libc_enable_secure
+                0x0000000000000298                __libc_enable_secure
+
+.init_array     0x0000000000000000        0x8
+ .init_array    0x0000000000000000        0x8 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+
+.data.rel.local
+                0x0000000000000000        0x8
+ .data.rel.local
+                0x0000000000000000        0x8 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+                0x0000000000000000                __exit_funcs
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x614
+ *(.dynbss)
+ *(.bss)
+ .bss           0x0000000000000000      0x118 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+                0x00000000000000e0                __libc_multiple_libcs
+                0x0000000000000110                __curbrk
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(errno.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setjmp.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(__longjmp.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strdup.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strlen.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strnlen.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memchr.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rawmemchr.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-ssse3.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-sse2-unaligned.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-sse4.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3-back.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3-back.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-ssse3.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr-sse2-no-bsf.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-ssse3.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(closedir.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getdents.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fdopendir.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(uname.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(_exit.os)
+ .bss           0x0000000000000118        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getpid.os)
+ .bss           0x0000000000000118        0x8 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(environ.os)
+                0x0000000000000118                _environ
+                0x0000000000000118                __environ
+                0x0000000000000118                environ
+ .bss           0x0000000000000120        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(xstat.os)
+ .bss           0x0000000000000120        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fxstat.os)
+ .bss           0x0000000000000120        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lxstat.os)
+ .bss           0x0000000000000120        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(open.os)
+ .bss           0x0000000000000120        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(read.os)
+ .bss           0x0000000000000120        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(write.os)
+ .bss           0x0000000000000120        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+ .bss           0x0000000000000120        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(access.os)
+ .bss           0x0000000000000120        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fcntl.os)
+ .bss           0x0000000000000120        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(close.os)
+ .bss           0x0000000000000120        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mmap.os)
+ .bss           0x0000000000000120        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(munmap.os)
+ .bss           0x0000000000000120        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mprotect.os)
+ .bss           0x0000000000000120       0xe0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os)
+ .bss           0x0000000000000200        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(prof-freq.os)
+ .bss           0x0000000000000200        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-lowlevellock.os)
+ .bss           0x0000000000000200        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-cancellation.os)
+ .bss           0x0000000000000200        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc_multiple_threads.os)
+ .bss           0x0000000000000200        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(dl-addr-obj.os)
+ .bss           0x0000000000000200        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(sigaction.os)
+ .bss           0x0000000000000200        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setitimer.os)
+ .bss           0x0000000000000200        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+ .bss           0x0000000000000200        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os)
+ .bss           0x0000000000000200      0x414 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+ .bss           0x0000000000000614        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_thread_atexit_impl.os)
+ *(COMMON)
+ COMMON         0x0000000000000614        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+ COMMON         0x0000000000000614        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+ COMMON         0x0000000000000614        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc_multiple_threads.os)
+ COMMON         0x0000000000000614        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+ COMMON         0x0000000000000614        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss)
+ *(LARGE_COMMON)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0x45c
+ *(.comment)
+ .comment       0x0000000000000000      0x276 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+ .comment       0x0000000000000276       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+ .comment       0x0000000000000288       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(errno.os)
+ .comment       0x000000000000029a       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strdup.os)
+ .comment       0x00000000000002ac       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+ .comment       0x00000000000002be       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(closedir.os)
+ .comment       0x00000000000002d0       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os)
+ .comment       0x00000000000002e2       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os)
+ .comment       0x00000000000002f4       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getdents.os)
+ .comment       0x0000000000000306       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fdopendir.os)
+ .comment       0x0000000000000318       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(_exit.os)
+ .comment       0x000000000000032a       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(environ.os)
+ .comment       0x000000000000033c       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(xstat.os)
+ .comment       0x000000000000034e       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fxstat.os)
+ .comment       0x0000000000000360       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lxstat.os)
+ .comment       0x0000000000000372       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+ .comment       0x0000000000000384       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(access.os)
+ .comment       0x0000000000000396       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fcntl.os)
+ .comment       0x00000000000003a8       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mmap.os)
+ .comment       0x00000000000003ba       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os)
+ .comment       0x00000000000003cc       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(prof-freq.os)
+ .comment       0x00000000000003de       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc_multiple_threads.os)
+ .comment       0x00000000000003f0       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(dl-addr-obj.os)
+ .comment       0x0000000000000402       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(sigaction.os)
+ .comment       0x0000000000000414       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+ .comment       0x0000000000000426       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os)
+ .comment       0x0000000000000438       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+ .comment       0x000000000000044a       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rawmemchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-sse4.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3-back.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3-back.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr-sse2-no-bsf.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getdents.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(xstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(open.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(read.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(write.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fcntl.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(close.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-cancellation.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc_multiple_threads.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.gnu.warning.llseek
+                0x0000000000000000       0x3f
+ .gnu.warning.llseek
+                0x0000000000000000       0x3f /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x1470
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x720 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+ .debug_aranges
+                0x0000000000000720       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+ .debug_aranges
+                0x0000000000000750       0x20 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(errno.os)
+ .debug_aranges
+                0x0000000000000770       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setjmp.os)
+ .debug_aranges
+                0x00000000000007a0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(__longjmp.os)
+ .debug_aranges
+                0x00000000000007d0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr.os)
+ .debug_aranges
+                0x0000000000000800       0x40 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os)
+ .debug_aranges
+                0x0000000000000840       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strdup.os)
+ .debug_aranges
+                0x0000000000000870       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strlen.os)
+ .debug_aranges
+                0x00000000000008a0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strnlen.os)
+ .debug_aranges
+                0x00000000000008d0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memchr.os)
+ .debug_aranges
+                0x0000000000000900       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp.os)
+ .debug_aranges
+                0x0000000000000930       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove.os)
+ .debug_aranges
+                0x0000000000000960       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset.os)
+ .debug_aranges
+                0x0000000000000990       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os)
+ .debug_aranges
+                0x00000000000009c0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy.os)
+ .debug_aranges
+                0x00000000000009f0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy.os)
+ .debug_aranges
+                0x0000000000000a20       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rawmemchr.os)
+ .debug_aranges
+                0x0000000000000a50       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-ssse3.os)
+ .debug_aranges
+                0x0000000000000a80       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_aranges
+                0x0000000000000ab0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-sse4.os)
+ .debug_aranges
+                0x0000000000000ae0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3.os)
+ .debug_aranges
+                0x0000000000000b10       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3.os)
+ .debug_aranges
+                0x0000000000000b40       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_aranges
+                0x0000000000000b70       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3-back.os)
+ .debug_aranges
+                0x0000000000000ba0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_aranges
+                0x0000000000000bd0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-ssse3.os)
+ .debug_aranges
+                0x0000000000000c00       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_aranges
+                0x0000000000000c30       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_aranges
+                0x0000000000000c60       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-ssse3.os)
+ .debug_aranges
+                0x0000000000000c90       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_aranges
+                0x0000000000000cc0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000000cf0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000000d20       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000000d50       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000000d80       0x40 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+ .debug_aranges
+                0x0000000000000dc0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(closedir.os)
+ .debug_aranges
+                0x0000000000000df0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os)
+ .debug_aranges
+                0x0000000000000e20       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os)
+ .debug_aranges
+                0x0000000000000e50       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getdents.os)
+ .debug_aranges
+                0x0000000000000e80       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fdopendir.os)
+ .debug_aranges
+                0x0000000000000eb0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(uname.os)
+ .debug_aranges
+                0x0000000000000ee0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(_exit.os)
+ .debug_aranges
+                0x0000000000000f10       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getpid.os)
+ .debug_aranges
+                0x0000000000000f40       0x20 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(environ.os)
+ .debug_aranges
+                0x0000000000000f60       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(xstat.os)
+ .debug_aranges
+                0x0000000000000f90       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fxstat.os)
+ .debug_aranges
+                0x0000000000000fc0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lxstat.os)
+ .debug_aranges
+                0x0000000000000ff0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(open.os)
+ .debug_aranges
+                0x0000000000001020       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(read.os)
+ .debug_aranges
+                0x0000000000001050       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(write.os)
+ .debug_aranges
+                0x0000000000001080       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+ .debug_aranges
+                0x00000000000010b0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(access.os)
+ .debug_aranges
+                0x00000000000010e0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fcntl.os)
+ .debug_aranges
+                0x0000000000001110       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(close.os)
+ .debug_aranges
+                0x0000000000001140       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mmap.os)
+ .debug_aranges
+                0x0000000000001170       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(munmap.os)
+ .debug_aranges
+                0x00000000000011a0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mprotect.os)
+ .debug_aranges
+                0x00000000000011d0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os)
+ .debug_aranges
+                0x0000000000001200       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(prof-freq.os)
+ .debug_aranges
+                0x0000000000001230       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-lowlevellock.os)
+ .debug_aranges
+                0x0000000000001260       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-cancellation.os)
+ .debug_aranges
+                0x0000000000001290       0x20 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc_multiple_threads.os)
+ .debug_aranges
+                0x00000000000012b0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(dl-addr-obj.os)
+ .debug_aranges
+                0x00000000000012e0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(sigaction.os)
+ .debug_aranges
+                0x0000000000001310       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setitimer.os)
+ .debug_aranges
+                0x0000000000001340       0xa0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+ .debug_aranges
+                0x00000000000013e0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os)
+ .debug_aranges
+                0x0000000000001410       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+ .debug_aranges
+                0x0000000000001440       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0xba23e
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x89a82 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+ .debug_info    0x0000000000089a82      0xcda /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+ .debug_info    0x000000000008a75c      0x6cc /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(errno.os)
+ .debug_info    0x000000000008ae28       0x87 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setjmp.os)
+ .debug_info    0x000000000008aeaf       0x8a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(__longjmp.os)
+ .debug_info    0x000000000008af39       0x91 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr.os)
+ .debug_info    0x000000000008afca       0x85 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os)
+ .debug_info    0x000000000008b04f      0x21b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strdup.os)
+ .debug_info    0x000000000008b26a       0x87 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strlen.os)
+ .debug_info    0x000000000008b2f1       0x87 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strnlen.os)
+ .debug_info    0x000000000008b378       0x87 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memchr.os)
+ .debug_info    0x000000000008b3ff       0x91 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp.os)
+ .debug_info    0x000000000008b490       0x92 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove.os)
+ .debug_info    0x000000000008b522       0x91 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset.os)
+ .debug_info    0x000000000008b5b3       0x92 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os)
+ .debug_info    0x000000000008b645       0x91 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy.os)
+ .debug_info    0x000000000008b6d6       0x91 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy.os)
+ .debug_info    0x000000000008b767       0x8a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rawmemchr.os)
+ .debug_info    0x000000000008b7f1       0x94 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-ssse3.os)
+ .debug_info    0x000000000008b885       0xa0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_info    0x000000000008b925       0x96 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-sse4.os)
+ .debug_info    0x000000000008b9bb       0x97 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3.os)
+ .debug_info    0x000000000008ba52       0x97 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3.os)
+ .debug_info    0x000000000008bae9       0x9c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_info    0x000000000008bb85       0x9c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3-back.os)
+ .debug_info    0x000000000008bc21       0xa7 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_info    0x000000000008bcc8       0x97 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-ssse3.os)
+ .debug_info    0x000000000008bd5f       0xa0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_info    0x000000000008bdff       0x9d /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_info    0x000000000008be9c       0x97 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-ssse3.os)
+ .debug_info    0x000000000008bf33       0xa6 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_info    0x000000000008bfd9       0xa5 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_info    0x000000000008c07e       0xa5 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_info    0x000000000008c123       0xa4 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_info    0x000000000008c1c7       0xa4 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_info    0x000000000008c26b     0x46fa /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+ .debug_info    0x0000000000090965     0x1df8 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(closedir.os)
+ .debug_info    0x000000000009275d     0x1ea5 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os)
+ .debug_info    0x0000000000094602     0x1dc5 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os)
+ .debug_info    0x00000000000963c7     0x2175 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getdents.os)
+ .debug_info    0x000000000009853c     0x1f57 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fdopendir.os)
+ .debug_info    0x000000000009a493       0x8e /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(uname.os)
+ .debug_info    0x000000000009a521      0x804 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(_exit.os)
+ .debug_info    0x000000000009ad25       0x8e /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getpid.os)
+ .debug_info    0x000000000009adb3      0x111 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(environ.os)
+ .debug_info    0x000000000009aec4      0x8f5 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(xstat.os)
+ .debug_info    0x000000000009b7b9      0x8f4 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fxstat.os)
+ .debug_info    0x000000000009c0ad      0x8f5 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lxstat.os)
+ .debug_info    0x000000000009c9a2       0x8b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(open.os)
+ .debug_info    0x000000000009ca2d       0x8b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(read.os)
+ .debug_info    0x000000000009cab8       0x8b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(write.os)
+ .debug_info    0x000000000009cb43      0x843 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+ .debug_info    0x000000000009d386     0x1fab /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(access.os)
+ .debug_info    0x000000000009f331     0x2344 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fcntl.os)
+ .debug_info    0x00000000000a1675       0x8b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(close.os)
+ .debug_info    0x00000000000a1700     0x396a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mmap.os)
+ .debug_info    0x00000000000a506a       0x8d /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(munmap.os)
+ .debug_info    0x00000000000a50f7       0x8d /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mprotect.os)
+ .debug_info    0x00000000000a5184     0x1131 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os)
+ .debug_info    0x00000000000a62b5     0x3714 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(prof-freq.os)
+ .debug_info    0x00000000000a99c9       0x9b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-lowlevellock.os)
+ .debug_info    0x00000000000a9a64       0x9b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-cancellation.os)
+ .debug_info    0x00000000000a9aff     0x1e16 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc_multiple_threads.os)
+ .debug_info    0x00000000000ab915     0x27fa /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(dl-addr-obj.os)
+ .debug_info    0x00000000000ae10f     0x22d7 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(sigaction.os)
+ .debug_info    0x00000000000b03e6       0x8d /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setitimer.os)
+ .debug_info    0x00000000000b0473     0x3149 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+ .debug_info    0x00000000000b35bc     0x130f /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os)
+ .debug_info    0x00000000000b48cb     0x2065 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+ .debug_info    0x00000000000b6930     0x390e /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_abbrev   0x0000000000000000     0xe253
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0x9627 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+ .debug_abbrev  0x0000000000009627      0x22f /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+ .debug_abbrev  0x0000000000009856      0x149 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(errno.os)
+ .debug_abbrev  0x000000000000999f       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setjmp.os)
+ .debug_abbrev  0x00000000000099b3       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(__longjmp.os)
+ .debug_abbrev  0x00000000000099c7       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr.os)
+ .debug_abbrev  0x00000000000099db       0x12 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os)
+ .debug_abbrev  0x00000000000099ed      0x15d /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strdup.os)
+ .debug_abbrev  0x0000000000009b4a       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strlen.os)
+ .debug_abbrev  0x0000000000009b5e       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strnlen.os)
+ .debug_abbrev  0x0000000000009b72       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memchr.os)
+ .debug_abbrev  0x0000000000009b86       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp.os)
+ .debug_abbrev  0x0000000000009b9a       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove.os)
+ .debug_abbrev  0x0000000000009bae       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset.os)
+ .debug_abbrev  0x0000000000009bc2       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os)
+ .debug_abbrev  0x0000000000009bd6       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy.os)
+ .debug_abbrev  0x0000000000009bea       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy.os)
+ .debug_abbrev  0x0000000000009bfe       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rawmemchr.os)
+ .debug_abbrev  0x0000000000009c12       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-ssse3.os)
+ .debug_abbrev  0x0000000000009c26       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_abbrev  0x0000000000009c3a       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-sse4.os)
+ .debug_abbrev  0x0000000000009c4e       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3.os)
+ .debug_abbrev  0x0000000000009c62       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3.os)
+ .debug_abbrev  0x0000000000009c76       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_abbrev  0x0000000000009c8a       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3-back.os)
+ .debug_abbrev  0x0000000000009c9e       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_abbrev  0x0000000000009cb2       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-ssse3.os)
+ .debug_abbrev  0x0000000000009cc6       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_abbrev  0x0000000000009cda       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_abbrev  0x0000000000009cee       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-ssse3.os)
+ .debug_abbrev  0x0000000000009d02       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_abbrev  0x0000000000009d16       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_abbrev  0x0000000000009d2a       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_abbrev  0x0000000000009d3e       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_abbrev  0x0000000000009d52       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_abbrev  0x0000000000009d66      0x4ea /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+ .debug_abbrev  0x000000000000a250      0x30a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(closedir.os)
+ .debug_abbrev  0x000000000000a55a      0x30f /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os)
+ .debug_abbrev  0x000000000000a869      0x2ee /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os)
+ .debug_abbrev  0x000000000000ab57      0x344 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getdents.os)
+ .debug_abbrev  0x000000000000ae9b      0x309 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fdopendir.os)
+ .debug_abbrev  0x000000000000b1a4       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(uname.os)
+ .debug_abbrev  0x000000000000b1b8      0x1a3 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(_exit.os)
+ .debug_abbrev  0x000000000000b35b       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getpid.os)
+ .debug_abbrev  0x000000000000b36f       0x78 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(environ.os)
+ .debug_abbrev  0x000000000000b3e7      0x19b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(xstat.os)
+ .debug_abbrev  0x000000000000b582      0x19b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fxstat.os)
+ .debug_abbrev  0x000000000000b71d      0x19b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lxstat.os)
+ .debug_abbrev  0x000000000000b8b8       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(open.os)
+ .debug_abbrev  0x000000000000b8cc       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(read.os)
+ .debug_abbrev  0x000000000000b8e0       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(write.os)
+ .debug_abbrev  0x000000000000b8f4      0x1b5 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+ .debug_abbrev  0x000000000000baa9      0x305 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(access.os)
+ .debug_abbrev  0x000000000000bdae      0x3c2 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fcntl.os)
+ .debug_abbrev  0x000000000000c170       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(close.os)
+ .debug_abbrev  0x000000000000c184      0x344 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mmap.os)
+ .debug_abbrev  0x000000000000c4c8       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(munmap.os)
+ .debug_abbrev  0x000000000000c4dc       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mprotect.os)
+ .debug_abbrev  0x000000000000c4f0      0x325 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os)
+ .debug_abbrev  0x000000000000c815      0x2e2 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(prof-freq.os)
+ .debug_abbrev  0x000000000000caf7       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-lowlevellock.os)
+ .debug_abbrev  0x000000000000cb0b       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-cancellation.os)
+ .debug_abbrev  0x000000000000cb1f      0x281 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc_multiple_threads.os)
+ .debug_abbrev  0x000000000000cda0      0x2e4 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(dl-addr-obj.os)
+ .debug_abbrev  0x000000000000d084      0x338 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(sigaction.os)
+ .debug_abbrev  0x000000000000d3bc       0x14 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setitimer.os)
+ .debug_abbrev  0x000000000000d3d0      0x40a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+ .debug_abbrev  0x000000000000d7da      0x2e5 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os)
+ .debug_abbrev  0x000000000000dabf      0x3e1 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+ .debug_abbrev  0x000000000000dea0      0x3b3 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_line     0x0000000000000000    0x1b6e8
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000     0xf867 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+ .debug_line    0x000000000000f867      0x327 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+ .debug_line    0x000000000000fb8e      0x201 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(errno.os)
+ .debug_line    0x000000000000fd8f       0x5e /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setjmp.os)
+ .debug_line    0x000000000000fded       0x61 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(__longjmp.os)
+ .debug_line    0x000000000000fe4e      0x110 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr.os)
+ .debug_line    0x000000000000ff5e      0x7b6 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os)
+ .debug_line    0x0000000000010714       0xbb /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strdup.os)
+ .debug_line    0x00000000000107cf       0x98 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strlen.os)
+ .debug_line    0x0000000000010867       0x98 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strnlen.os)
+ .debug_line    0x00000000000108ff      0x11a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memchr.os)
+ .debug_line    0x0000000000010a19      0x190 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp.os)
+ .debug_line    0x0000000000010ba9      0x1c0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove.os)
+ .debug_line    0x0000000000010d69      0x116 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset.os)
+ .debug_line    0x0000000000010e7f       0x7b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mempcpy.os)
+ .debug_line    0x0000000000010efa       0xd7 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy.os)
+ .debug_line    0x0000000000010fd1       0x7a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy.os)
+ .debug_line    0x000000000001104b       0xc8 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rawmemchr.os)
+ .debug_line    0x0000000000011113      0x45f /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-ssse3.os)
+ .debug_line    0x0000000000011572      0x10c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_line    0x000000000001167e      0x500 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-sse4.os)
+ .debug_line    0x0000000000011b7e      0x947 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3.os)
+ .debug_line    0x00000000000124c5      0x99b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3.os)
+ .debug_line    0x0000000000012e60      0x87d /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_line    0x00000000000136dd      0x882 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-ssse3-back.os)
+ .debug_line    0x0000000000013f5f      0x1b2 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_line    0x0000000000014111      0x627 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-ssse3.os)
+ .debug_line    0x0000000000014738      0x1e2 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_line    0x000000000001491a      0x111 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_line    0x0000000000014a2b      0x5cd /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memcmp-ssse3.os)
+ .debug_line    0x0000000000014ff8       0xeb /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_line    0x00000000000150e3      0x160 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_line    0x0000000000015243      0x16e /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_line    0x00000000000153b1       0xce /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_line    0x000000000001547f       0xd2 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_line    0x0000000000015551      0x780 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+ .debug_line    0x0000000000015cd1      0x40f /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(closedir.os)
+ .debug_line    0x00000000000160e0      0x44d /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os)
+ .debug_line    0x000000000001652d      0x3f0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os)
+ .debug_line    0x000000000001691d      0x449 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getdents.os)
+ .debug_line    0x0000000000016d66      0x46f /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fdopendir.os)
+ .debug_line    0x00000000000171d5       0x58 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(uname.os)
+ .debug_line    0x000000000001722d      0x279 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(_exit.os)
+ .debug_line    0x00000000000174a6       0x58 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getpid.os)
+ .debug_line    0x00000000000174fe       0x62 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(environ.os)
+ .debug_line    0x0000000000017560      0x297 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(xstat.os)
+ .debug_line    0x00000000000177f7      0x298 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fxstat.os)
+ .debug_line    0x0000000000017a8f      0x298 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lxstat.os)
+ .debug_line    0x0000000000017d27       0x5a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(open.os)
+ .debug_line    0x0000000000017d81       0x5a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(read.os)
+ .debug_line    0x0000000000017ddb       0x5a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(write.os)
+ .debug_line    0x0000000000017e35      0x276 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+ .debug_line    0x00000000000180ab      0x439 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(access.os)
+ .debug_line    0x00000000000184e4      0x461 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fcntl.os)
+ .debug_line    0x0000000000018945       0x5a /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(close.os)
+ .debug_line    0x000000000001899f      0x4b7 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mmap.os)
+ .debug_line    0x0000000000018e56       0x58 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(munmap.os)
+ .debug_line    0x0000000000018eae       0x58 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mprotect.os)
+ .debug_line    0x0000000000018f06      0x3e7 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os)
+ .debug_line    0x00000000000192ed      0x473 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(prof-freq.os)
+ .debug_line    0x0000000000019760       0x81 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-lowlevellock.os)
+ .debug_line    0x00000000000197e1       0x8b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc-cancellation.os)
+ .debug_line    0x000000000001986c      0x3a7 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc_multiple_threads.os)
+ .debug_line    0x0000000000019c13      0x404 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(dl-addr-obj.os)
+ .debug_line    0x000000000001a017      0x4be /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(sigaction.os)
+ .debug_line    0x000000000001a4d5       0x58 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(setitimer.os)
+ .debug_line    0x000000000001a52d      0x5e4 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+ .debug_line    0x000000000001ab11      0x316 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os)
+ .debug_line    0x000000000001ae27      0x40c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+ .debug_line    0x000000000001b233      0x4b5 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x76e49
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x5476c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+ .debug_str     0x000000000005476c      0x82b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+ .debug_str     0x0000000000054f97      0x5c6 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(errno.os)
+ .debug_str     0x000000000005555d      0x234 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strdup.os)
+ .debug_str     0x0000000000055791     0x393f /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+ .debug_str     0x00000000000590d0     0x16af /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(closedir.os)
+ .debug_str     0x000000000005a77f     0x173c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os)
+ .debug_str     0x000000000005bebb     0x169d /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os)
+ .debug_str     0x000000000005d558     0x17cc /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getdents.os)
+ .debug_str     0x000000000005ed24     0x17d0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fdopendir.os)
+ .debug_str     0x00000000000604f4      0x67f /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(_exit.os)
+ .debug_str     0x0000000000060b73      0x1f6 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(environ.os)
+ .debug_str     0x0000000000060d69      0x729 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(xstat.os)
+ .debug_str     0x0000000000061492      0x727 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fxstat.os)
+ .debug_str     0x0000000000061bb9      0x72c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lxstat.os)
+ .debug_str     0x00000000000622e5      0x6ba /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+ .debug_str     0x000000000006299f     0x1881 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(access.os)
+ .debug_str     0x0000000000064220     0x18ed /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fcntl.os)
+ .debug_str     0x0000000000065b0d     0x2742 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mmap.os)
+ .debug_str     0x000000000006824f      0xbb1 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os)
+ .debug_str     0x0000000000068e00     0x26d2 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(prof-freq.os)
+ .debug_str     0x000000000006b4d2     0x187d /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(libc_multiple_threads.os)
+ .debug_str     0x000000000006cd4f     0x1cd9 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(dl-addr-obj.os)
+ .debug_str     0x000000000006ea28     0x19ff /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(sigaction.os)
+ .debug_str     0x0000000000070427     0x1ebc /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+ .debug_str     0x00000000000722e3      0xcff /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os)
+ .debug_str     0x0000000000072fe2     0x16bf /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+ .debug_str     0x00000000000746a1     0x27a8 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_loc      0x0000000000000000    0x38f0b
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000    0x31eed /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+ .debug_loc     0x0000000000031eed      0x6bf /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+ .debug_loc     0x00000000000325ac      0x107 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strdup.os)
+ .debug_loc     0x00000000000326b3     0x1c9c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+ .debug_loc     0x000000000003434f      0x141 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(closedir.os)
+ .debug_loc     0x0000000000034490      0x192 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os)
+ .debug_loc     0x0000000000034622       0x4c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os)
+ .debug_loc     0x000000000003466e      0x34d /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getdents.os)
+ .debug_loc     0x00000000000349bb       0xbe /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fdopendir.os)
+ .debug_loc     0x0000000000034a79      0x158 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(_exit.os)
+ .debug_loc     0x0000000000034bd1      0x1de /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(xstat.os)
+ .debug_loc     0x0000000000034daf      0x1d3 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fxstat.os)
+ .debug_loc     0x0000000000034f82      0x1de /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lxstat.os)
+ .debug_loc     0x0000000000035160      0x12c /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+ .debug_loc     0x000000000003528c      0x133 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(access.os)
+ .debug_loc     0x00000000000353bf      0x84d /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fcntl.os)
+ .debug_loc     0x0000000000035c0c      0x706 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mmap.os)
+ .debug_loc     0x0000000000036312      0x2d0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(profil.os)
+ .debug_loc     0x00000000000365e2       0x65 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(dl-addr-obj.os)
+ .debug_loc     0x0000000000036647      0x3a0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(sigaction.os)
+ .debug_loc     0x00000000000369e7     0x18a4 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+ .debug_loc     0x000000000003828b      0x36b /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os)
+ .debug_loc     0x00000000000385f6      0x6bf /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+ .debug_loc     0x0000000000038cb5      0x256 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x9430
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x8700 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/dl-allobjs.os
+ .debug_ranges  0x0000000000008700      0x1e0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(check_fds.os)
+ .debug_ranges  0x00000000000088e0       0x40 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(strcmp.os)
+ .debug_ranges  0x0000000000008920      0x3b0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cacheinfo.os)
+ .debug_ranges  0x0000000000008cd0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(closedir.os)
+ .debug_ranges  0x0000000000008d00       0xc0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(readdir.os)
+ .debug_ranges  0x0000000000008dc0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(rewinddir.os)
+ .debug_ranges  0x0000000000008df0       0xd0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(getdents.os)
+ .debug_ranges  0x0000000000008ec0       0x90 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(_exit.os)
+ .debug_ranges  0x0000000000008f50       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(xstat.os)
+ .debug_ranges  0x0000000000008f80       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fxstat.os)
+ .debug_ranges  0x0000000000008fb0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lxstat.os)
+ .debug_ranges  0x0000000000008fe0       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(lseek64.os)
+ .debug_ranges  0x0000000000009010       0x30 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(access.os)
+ .debug_ranges  0x0000000000009040       0xf0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(fcntl.os)
+ .debug_ranges  0x0000000000009130       0xe0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(mmap.os)
+ .debug_ranges  0x0000000000009210       0xb0 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(sigaction.os)
+ .debug_ranges  0x00000000000092c0       0x90 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(forward.os)
+ .debug_ranges  0x0000000000009350       0x60 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(exit.os)
+ .debug_ranges  0x00000000000093b0       0x80 /glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/libc_pic.a(cxa_atexit.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/glibc-tmp-122b61b301183a6bf6f977f7d13ad105/glibc-2.25/build-glibc-2.25/elf/librtld.map.o elf64-x86-64)

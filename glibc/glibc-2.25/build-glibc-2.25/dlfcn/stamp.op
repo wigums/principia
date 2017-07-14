@@ -1,0 +1,1 @@
+dlfcn/sdlopen.op dlfcn/sdlclose.op dlfcn/sdlsym.op dlfcn/sdlvsym.op dlfcn/sdlerror.op dlfcn/sdladdr.op dlfcn/sdladdr1.op dlfcn/sdlinfo.op dlfcn/sdlmopen.op

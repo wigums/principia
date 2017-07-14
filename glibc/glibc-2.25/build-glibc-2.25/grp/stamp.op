@@ -1,0 +1,1 @@
+grp/fgetgrent.op grp/initgroups.op grp/setgroups.op grp/getgrent.op grp/getgrgid.op grp/getgrnam.op grp/putgrent.op grp/getgrent_r.op grp/getgrgid_r.op grp/getgrnam_r.op grp/fgetgrent_r.op grp/grp-merge.op
